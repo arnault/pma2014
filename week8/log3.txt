@@ -1,0 +1,8 @@
+03-18 16:28:32.924: I/Lab-ContentProvider(14188): Entered footerView.OnClickListener.onClick()
+03-18 16:28:33.025: I/Lab-ContentProvider(14188): Starting Place Download
+03-18 16:28:34.416: I/Lab-ContentProvider(14188): Entered addNewPlace()
+03-18 16:28:38.135: I/Lab-ContentProvider(14188): Entered footerView.OnClickListener.onClick()
+03-18 16:28:38.236: I/Lab-ContentProvider(14188): Starting Place Download
+03-18 16:28:38.674: I/Lab-ContentProvider(14188): Entered addNewPlace()
+03-18 16:28:44.135: I/Lab-ContentProvider(14188): Place: The Greenhouse Country: United States
+03-18 16:28:44.236: I/Lab-ContentProvider(14188): Place: Berwyn Country: United States

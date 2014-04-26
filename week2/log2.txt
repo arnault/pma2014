@@ -1,0 +1,29 @@
+02-02 22:14:30.617: I/Lab-ActivityOne(4122): Entered the onCreate method
+02-02 22:14:30.617: I/Lab-ActivityOne(4122): Entered the onStart method
+02-02 22:14:30.617: I/Lab-ActivityOne(4122): Entered the onResume method
+02-02 22:14:35.687: I/Lab-ActivityOne(4122): Entered the onPause method
+02-02 22:14:35.734: I/Lab-ActivityTwo(4122): onCreate
+02-02 22:14:35.734: I/Lab-ActivityTwo(4122): Entered the onStart method
+02-02 22:14:35.734: I/Lab-ActivityTwo(4122): Entered the onResume method
+02-02 22:14:36.203: I/Lab-ActivityOne(4122): Entered the onStop method
+02-02 22:14:40.484: I/Lab-ActivityTwo(4122): Entered the onPause method
+02-02 22:14:40.500: I/Lab-ActivityTwo(4122): Entered the onStop method
+02-02 22:14:40.500: I/Lab-ActivityTwo(4122): Entered the onDestroy method
+02-02 22:14:40.601: I/Lab-ActivityTwo(4122): onCreate
+02-02 22:14:40.601: I/Lab-ActivityTwo(4122): Entered the onStart method
+02-02 22:14:40.601: I/Lab-ActivityTwo(4122): Entered the onResume method
+02-02 22:14:45.195: I/Lab-ActivityTwo(4122): Entered the onPause method
+02-02 22:14:45.195: I/Lab-ActivityTwo(4122): Entered the onStop method
+02-02 22:14:45.195: I/Lab-ActivityTwo(4122): Entered the onDestroy method
+02-02 22:14:45.289: I/Lab-ActivityTwo(4122): onCreate
+02-02 22:14:45.289: I/Lab-ActivityTwo(4122): Entered the onStart method
+02-02 22:14:45.289: I/Lab-ActivityTwo(4122): Entered the onResume method
+02-02 22:14:49.554: I/Lab-ActivityTwo(4122): Entered the onPause method
+02-02 22:14:49.562: I/Lab-ActivityOne(4122): Entered the onRestart method
+02-02 22:14:49.562: I/Lab-ActivityOne(4122): Entered the onStart method
+02-02 22:14:49.562: I/Lab-ActivityOne(4122): Entered the onResume method
+02-02 22:14:49.968: I/Lab-ActivityOne(4122): Entered the onPause method
+02-02 22:14:50.093: I/Lab-ActivityOne(4122): Entered the onStop method
+02-02 22:14:50.093: I/Lab-ActivityOne(4122): Entered the onDestroy method
+02-02 22:14:50.117: I/Lab-ActivityTwo(4122): Entered the onStop method
+02-02 22:14:50.117: I/Lab-ActivityTwo(4122): Entered the onDestroy method
